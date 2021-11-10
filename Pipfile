@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 scrapy = "*"
 scrapy-rotating-proxies = "*"
-scrapy-user-agents = "*"
+scrapy-useragents = "*"
 
 [dev-packages]
 
